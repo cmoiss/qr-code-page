@@ -32,7 +32,15 @@ body {
 }
 
 #title {
+    color: var(--navy-blue);
     margin: 2rem auto 2rem auto;
+    font-weight: 700;
+}
+
+#content {
+    color: var(--blueish-gray);
+    font-size: 0.9375rem;
+    font-weight: 400;
 }
 
 .attribution {
