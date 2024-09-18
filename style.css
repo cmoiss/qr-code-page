@@ -56,11 +56,6 @@ body {
   margin-bottom: 1rem;
 }
 
-.attribution a:link,
-.attribution a:visited {
-  text-decoration: none;
-}
-
 .attribution a {
   color: hsl(228, 45%, 44%);
 }
