@@ -11,6 +11,9 @@
     font-family: Arial, Helvetica, sans-serif;
 }
 
+body {
+    background-color: var(--baby-blue);
+}
 .attribution {
   font-size: 11px;
   text-align: center;
