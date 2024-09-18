@@ -14,9 +14,24 @@
 body {
     background-color: var(--baby-blue);
 }
+
+#main-container {
+    background-color: white;
+    min-width: 10vw;
+    max-width: 60vw;
+    margin: 0.625rem auto;
+}
+
+#image-qr-code {
+    max-width: 100%;
+    height: auto;
+    margin: 0 auto;
+}
+
 .attribution {
   font-size: 11px;
   text-align: center;
+  margin-bottom: 0.625rem;
 }
 .attribution a {
   color: hsl(228, 45%, 44%);
