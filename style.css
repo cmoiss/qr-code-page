@@ -31,16 +31,22 @@ body {
     border-radius: 0.75em;
 }
 
+#title, #content {
+    text-align: center;
+}
+
 #title {
     color: var(--navy-blue);
-    margin: 2rem auto 2rem auto;
+    margin: 1.5rem auto 1rem auto;
     font-weight: 700;
+    font-size: 1.5em;
 }
 
 #content {
-    color: var(--blueish-gray);
-    font-size: 0.9375rem;
-    font-weight: 400;
+  color: var(--blueish-gray);
+  font-size: 1.1em;
+  font-weight: 400;
+  margin-bottom: 1.5em;
 }
 
 .attribution {
