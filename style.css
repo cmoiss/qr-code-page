@@ -31,6 +31,8 @@ body {
     border-radius: 0.75em;
 }
 
+#title {
+    margin: 2rem auto 2rem auto;
 }
 
 .attribution {
