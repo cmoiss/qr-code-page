@@ -23,9 +23,10 @@ body {
 }
 
 #image-qr-code {
-    max-width: 100%;
+    display: block;
+    max-width: 50%;
     height: auto;
-    margin: 0 auto;
+    margin: auto;
 }
 
 .attribution {
