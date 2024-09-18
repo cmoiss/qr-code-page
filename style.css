@@ -17,8 +17,8 @@ body {
 
 #main-container {
   background-color: white;
-  max-width: 375px;
-  margin: 2rem 1.5rem;
+  max-width: 365px;
+  margin: 2rem auto;
   padding: 1em;
   border-radius: 1em;
 }
@@ -53,7 +53,7 @@ body {
 .attribution {
   font-size: 11px;
   text-align: center;
-  margin-bottom: 0.625rem;
+  margin-bottom: 1rem;
 }
 
 .attribution a:link,
