@@ -26,14 +26,14 @@ body {
   gap: 2em;
 }
 
-#main-container {
+.main-container {
   background-color: white;
   max-width: 365px;
   padding: 1em;
   border-radius: 1em;
 }
 
-#image-qr-code {
+.image-qr-code {
   display: block;
   max-width: 100%;
   height: auto;
@@ -41,19 +41,19 @@ body {
   border-radius: 0.75em;
 }
 
-#title,
-#content {
+.title,
+.content {
   text-align: center;
 }
 
-#title {
+.title {
   color: var(--navy-blue);
   margin: 1.5rem auto 1rem auto;
   font-weight: 700;
   font-size: 1.5em;
 }
 
-#content {
+.content {
   color: var(--blueish-gray);
   font-size: 1.1em;
   font-weight: 400;
